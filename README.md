@@ -1,5 +1,5 @@
 # Final Project – Haxby 2001 Replication
-**Authors:** Chavi Adler, Chen Cohen, Kislev Wainer
+**Authors:** Chavi Adler ID 324252113, Chen Cohen ID 207138389, Kislev Wainer ID 208662767
 
 ## Project Description
 
