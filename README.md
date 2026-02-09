@@ -82,7 +82,7 @@ This project is implemented as a modular Python package:
 
 - **Dataset:** Haxby et al. (2001) fMRI dataset.
 - **Source:** The data is fetched programmatically using `nilearn.datasets.fetch_haxby`.
-- **Link to Dataset Documentation:** [Nilearn Haxby Dataset](https://nilearn.github.io/modules/generated/nilearn.datasets.fetch_haxby.html)
+- **Link to Dataset Documentation:** [Nilearn Haxby Dataset](http://data.pymvpa.org/datasets/haxby2001/)
 - **Content:** The dataset includes functional MRI scans (BOLD), anatomical images, category labels, and a ventral temporal cortex mask for 6 subjects.
 
 ---
