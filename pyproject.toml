@@ -1,0 +1,21 @@
+[project]
+name = "haxby_reproduction"
+version = "1.0.0"
+description = "Reproduction of Haxby et al. (2001) distributed representations study."
+authors = [
+    {name = "Chavi Adler, ID 324252113"},
+    {name = "Chen Cohen, ID 207138389"},
+    {name = "Kislev Wainer, ID 208662767"}
+]
+dependencies = [
+    "numpy",
+    "pandas",
+    "matplotlib",
+    "seaborn",
+    "nilearn",
+    "scikit-learn"
+]
+requires-python = ">=3.8"
+
+[project.optional-dependencies]
+dev = ["pytest"]
